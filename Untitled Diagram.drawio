@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T12:51:03.459Z" agent="5.0 (Windows)" etag="mimnjmHYtPPXKIK56rIk" version="15.4.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-07T13:03:07.099Z" agent="5.0 (Windows)" etag="iFs2mD5u8YmDM_PZXdAE" version="15.4.1" type="github" pages="3">
   <diagram id="hXLMSJLPqfkVOR41raW_" name="Page-1">
     <mxGraphModel dx="1422" dy="5461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -679,7 +679,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6IN-1y0X2srt8HocfE1s" name="Use Cases">
-    <mxGraphModel dx="902" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1539" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="sybfpHhCCQ0rY0mYXUCJ-0" />
         <mxCell id="sybfpHhCCQ0rY0mYXUCJ-1" parent="sybfpHhCCQ0rY0mYXUCJ-0" />
@@ -702,7 +702,7 @@
         <mxCell id="sybfpHhCCQ0rY0mYXUCJ-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-2">
           <mxGeometry y="60" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-8" value="&lt;p&gt;&lt;b&gt;Mijn aanwezigheid registreren&lt;/b&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-7">
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-8" value="&lt;p&gt;&lt;b&gt;Mijn aanwezigheid registreren.&lt;/b&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-7">
           <mxGeometry width="230" height="60" as="geometry">
             <mxRectangle width="230" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -715,7 +715,7 @@
         <mxCell id="sybfpHhCCQ0rY0mYXUCJ-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-2">
           <mxGeometry y="120" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-12" value="&lt;p&gt;&lt;b&gt;Mijn rooster zien&lt;/b&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-11">
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-12" value="&lt;p&gt;&lt;b&gt;Mijn rooster zien.&lt;/b&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-11">
           <mxGeometry width="230" height="60" as="geometry">
             <mxRectangle width="230" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -728,12 +728,12 @@
         <mxCell id="sybfpHhCCQ0rY0mYXUCJ-15" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-2">
           <mxGeometry y="180" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-16" value="&lt;b&gt;&lt;span&gt;Mij ziek kunnen melden&lt;/span&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-15">
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-16" value="&lt;b&gt;&lt;span&gt;Mij ziek kunnen melden.&lt;/span&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-15">
           <mxGeometry width="230" height="60" as="geometry">
             <mxRectangle width="230" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-17" value="&lt;p&gt;&lt;i&gt;Ik niet als ongeoorloofd afwezig word geregistreerd&lt;/i&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-15">
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-17" value="&lt;p&gt;&lt;i&gt;Ik niet als ongeoorloofd afwezig word geregistreerd.&lt;/i&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-15">
           <mxGeometry x="230" width="230" height="60" as="geometry">
             <mxRectangle width="230" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -741,7 +741,7 @@
         <mxCell id="sybfpHhCCQ0rY0mYXUCJ-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-2">
           <mxGeometry y="240" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-19" value="&lt;b&gt;&lt;span&gt;Mijn resterende vakantiedagen kunnen zien&lt;/span&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-18">
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-19" value="&lt;b&gt;&lt;span&gt;Mijn resterende vakantiedagen kunnen zien.&lt;/span&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-18">
           <mxGeometry width="230" height="60" as="geometry">
             <mxRectangle width="230" height="60" as="alternateBounds" />
           </mxGeometry>
@@ -754,12 +754,161 @@
         <mxCell id="sybfpHhCCQ0rY0mYXUCJ-21" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-2">
           <mxGeometry y="300" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-22" value="&lt;p&gt;&lt;b&gt;Vakantie aanvragen&lt;/b&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-21">
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-22" value="&lt;p&gt;&lt;b&gt;Vakantie aanvragen.&lt;/b&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-21">
           <mxGeometry width="230" height="60" as="geometry">
             <mxRectangle width="230" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-23" value="&lt;i&gt;&lt;span&gt;Ik niet ongeoorloofd afwezig word geregistreerd&lt;/span&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-21">
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-23" value="&lt;i&gt;&lt;span&gt;Ik niet ongeoorloofd afwezig word geregistreerd.&lt;/span&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-21">
+          <mxGeometry x="230" width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-45" value="Als Begeleider" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-1">
+          <mxGeometry x="580" y="40" width="460" height="419.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-46" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-45">
+          <mxGeometry y="40" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-47" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;Wil ik&lt;/span&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontStyle=0" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-46">
+          <mxGeometry width="230" height="20" as="geometry">
+            <mxRectangle width="230" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-48" value="Zodat" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-46">
+          <mxGeometry x="230" width="230" height="20" as="geometry">
+            <mxRectangle width="230" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-49" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-45">
+          <mxGeometry y="60" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-50" value="&lt;b&gt;De aanwezigheid van mijn Gebruikers zien.&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-49">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-51" value="&lt;i&gt;Ik deze kan controleren. &lt;br&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-49">
+          <mxGeometry x="230" width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-45">
+          <mxGeometry y="120" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-53" value="&lt;div&gt;&lt;b&gt;Roosters van mijn Gebruikers &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;instellen.&lt;/b&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-52">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-54" value="&lt;i&gt;Mijn Gebruikers weten wanneer ze aanwezig horen te zijn.&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-52">
+          <mxGeometry x="230" width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-55" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-45">
+          <mxGeometry y="180" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-56" value="&lt;b&gt;Zien welke Gebruikers zich ziek hebben gemeld.&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-55">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-57" value="&lt;i&gt;Ik kan registreren dat deze Gebruikers geoorloofd afwezig zijn.&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-55">
+          <mxGeometry x="230" width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-45">
+          <mxGeometry y="240" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-59" value="&lt;b&gt;Zien welke Gebruikers vakantie hebben aangevraagd.&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-58">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-60" value="&lt;p&gt;&lt;i&gt;Ik de aanvragen kan behandelen.&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-58">
+          <mxGeometry x="230" width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-45">
+          <mxGeometry y="300" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-62" value="&lt;b&gt;Indicaties van mijn Gebruikers zien.&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-61">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-63" value="&lt;i&gt;Ik kan zien of mijn Gebruikers nog hier mogen werken.&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-61">
+          <mxGeometry x="230" width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-45">
+          <mxGeometry y="360" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-65" value="&lt;b&gt;Zien of mijn Gebruikers aanvragen voor indicatieverlengingen hebben.&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-64">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-66" value="&lt;i&gt;Ik weet of ik mijn Gebruikers tijdelijk zonder indicatie mag laten werken.&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-64">
+          <mxGeometry x="230" width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-67" value="Als Wijkcoach" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-1">
+          <mxGeometry x="1080" y="40" width="460" height="239.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-68" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-67">
+          <mxGeometry y="40" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-69" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;Wil ik&lt;/span&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontStyle=0" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-68">
+          <mxGeometry width="230" height="20" as="geometry">
+            <mxRectangle width="230" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-70" value="Zodat" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-68">
+          <mxGeometry x="230" width="230" height="20" as="geometry">
+            <mxRectangle width="230" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-71" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-67">
+          <mxGeometry y="60" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-72" value="&lt;b&gt;De aanwezigheid van mijn Gebruikers zien.&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-71">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-73" value="&lt;i&gt;Ik kan zien of mijn Gebruikers zich aan de afspraken houden.&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-71">
+          <mxGeometry x="230" width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-74" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-67">
+          <mxGeometry y="120" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-75" value="&lt;b&gt;Aangeven dat een Gebruiker een indicatie heeft.&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-74">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-76" value="&lt;i&gt;De Begeleider kan zien dat de Gebruiker mag werken.&lt;br&gt;&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-74">
+          <mxGeometry x="230" width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-77" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-67">
+          <mxGeometry y="180" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-78" value="&lt;b&gt;Aangeven dat een Gebruiker een indicatieverlenging heeft aangevraagd.&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-77">
+          <mxGeometry width="230" height="60" as="geometry">
+            <mxRectangle width="230" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sybfpHhCCQ0rY0mYXUCJ-79" value="&lt;i&gt;Ik kan aangeven dat de Begeleider de Gebruiker tijdelijk zonder indicatie mag laten werken.&lt;/i&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="sybfpHhCCQ0rY0mYXUCJ-77">
           <mxGeometry x="230" width="230" height="60" as="geometry">
             <mxRectangle width="230" height="60" as="alternateBounds" />
           </mxGeometry>
