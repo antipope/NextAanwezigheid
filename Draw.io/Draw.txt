@@ -1,2 +1,3 @@
 https://github.com/dotnet-architecture/eShopOnContainers
 https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/
+https://www.coursera.org/learn/software-architecture/home/welcome
