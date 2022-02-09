@@ -1,0 +1,3 @@
+https://xunit.net/docs/getting-started/netcore/visual-studio
+https://github.com/progit/progit2/releases/download/2.1.337/progit.pdf
+https://docs.specflow.org/projects/getting-started/en/latest/GettingStarted/Step1.html
